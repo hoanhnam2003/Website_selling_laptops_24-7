@@ -1,0 +1,55 @@
+.logo {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+}
+
+.boxCreate {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    margin: 0;
+}
+
+ul li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 10px;
+    padding: 10px 0;
+}
+
+.formLog {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.boxO{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.boxO p{
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
